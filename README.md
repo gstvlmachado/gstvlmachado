@@ -1,6 +1,6 @@
 ### Seja bem-vindo! 👋
 
-- Atualmente estou estudando Sistemas para Internet na FIAP.
+- Atualmente estou cursando Sistemas para Internet na faculdade FIAP.
   - Conhecimentos até o momento:
     - HTML
     - CSS
