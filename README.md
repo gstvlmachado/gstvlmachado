@@ -1,4 +1,11 @@
-### Hi there 👋
+### Seja bem-vindo! 👋
+
+- Atualmente estou estudando Sistemas para Internet na FIAP.
+  - Conhecimentos até o momento:
+    - HTML
+    - CSS
+    - Bootstrap
+    - JavaScript
 
 <!--
 **gstvlmachado/gstvlmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
