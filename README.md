@@ -8,6 +8,11 @@
     - JavaScript
     - Java (getters, setters, constructors)
 
+- Ferramentas utilizadas:
+  - IntelliJ IDEA
+  - Visual Studio Code
+  - Astah UML
+
 <!--
 **gstvlmachado/gstvlmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
