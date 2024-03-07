@@ -6,6 +6,7 @@
     - CSS
     - Bootstrap
     - JavaScript
+    - Java (getters, setters, constructors)
 
 <!--
 **gstvlmachado/gstvlmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
